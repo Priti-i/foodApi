@@ -4,6 +4,7 @@ const app = express();
 app.use(cors());
 const port = process.env.PORT || 3000;
 const apidata = require("./data.json"); // Ensure data.json is in the correct path
+app.use(cors());
 
 // Root route
 app.get("/", (req, res) => {
