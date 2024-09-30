@@ -1,6 +1,6 @@
 
 [
-  {
+  { "type":"resturant",
    "data":{
     "id":101,
     "name":"Kaka ka Dhaba",
@@ -13,6 +13,7 @@
   }
 },
 {
+  "type":"resturant",
   "data":{
    "id":102,
    "name":"KFC",
@@ -23,7 +24,10 @@
    "costforTwo":"400",
    "menu":[ "Zinger Pro Burger","Chiken Popcorn","Peri-Peri chiken Strip","All Chiken Box"]
  }
-}, {
+},
+
+ {
+  "type":"resturant",
   "data":{
    "id":103,
    "name":"Domino's Pizza",
@@ -34,7 +38,8 @@
    "costforTwo":"",
    "menu":["Non Veg Loaded","Margherita Pizza","Veg Loaded","Burger Pizza","Peppy Panner Pizza"]
  }
-}, {
+},
+ { "type":"resturant",
   "data":{
    "id":104,
    "name":"Baker's Den",
@@ -45,7 +50,7 @@
    "costforTwo":"450",
    "menu":["Rasmalai Cake","Belgium chocolate Cake","Durch Truffle Cake","Black Forest Cake","Pineapple Cake" ]
  }
-}, {
+}, { "type":"resturant",
   "data":{
    "id":105,
    "name":"Theobroma",
@@ -56,7 +61,7 @@
    "costforTwo":"400",
    "menu":["Overload Brownie Piece","Pineapple","Rice Chocolate Pastry","Pain Au Chocolate","Butter Palmiers"]
  }
-}, {
+}, { "type":"resturant",
   "data":{
    "id":106,
    "name":"Dairy Don",
@@ -67,7 +72,7 @@
    "costforTwo":"360",
    "menu":["Chocolate kitkat Thick","Sitafal Thick Shake","Chocolate Thick Shake","Mango Mastani","Badam Shake"]
  }
-}, {
+}, { "type":"resturant",
   "data":{
    "id":107,
    "name":"Chhotu Kolhapuri",
@@ -78,7 +83,7 @@
    "costforTwo":"100",
    "menu":["Chees con Padapav","Mayonnaise Vadaapv" ,"Motu"]
  }
-}, {
+}, { "type":"resturant",
   "data":{
    "id":108,
    "name":"Veg Aroma",
@@ -89,7 +94,7 @@
    "costforTwo":"350",
    "menu":["Dal Khichadi","Rumali Khakra","Dal Khichadi Tadka","Veg Biryani Half","Shev Bhaji" ]
  }
-}, {
+}, { "type":"resturant",
   "data":{
    "id":109,
    "name":"Malabar Kitchen",
@@ -100,7 +105,7 @@
    "costforTwo":"300",
    "menu":["Chiken Curry","Chiken Biryani","Egg Biryani","Dosa Set","Dosa"]
  }
-}, {
+}, { "type":"resturant",
   "data":{
    "id":110,
    "name":"Haste kitchen",
@@ -111,7 +116,7 @@
    "costforTwo":"200",
    "menu":["Paneer dum birani","Butter chiken","Butter chiken rice bowl","Smook Chiken biryani","Paneer Paratha"]
  }
-}, {
+}, { "type":"resturant",
   "data":{
    "id":111,
    "name":"Anna ka Idli Dosa",
@@ -122,7 +127,7 @@
    "costforTwo":"200",
    "menu":[ "Masal dosa","Medu vada sambar","Paper sada dosa","Onion uttapam"]
  }
-}, {
+}, { "type":"resturant",
   "data":{
    "id":112,
    "name":"Rock N Roll",
@@ -133,7 +138,7 @@
    "costforTwo":"300",
    "menu":["Paneer roll","Chiken Roll","Paneer chess Roll","Noodles Roll","Veg Burger"]
  }
-}, {
+}, { "type":"resturant",
   "data":{
    "id":113,
    "name":"Hotel Aditya",
@@ -144,7 +149,7 @@
    "costforTwo":"350",
    "menu":["Chiken Handi","Mutton Handi","Mutton Biryani","Sev Bhaji"]
  }
-}, {
+}, { "type":"resturant",
   "data":{
    "id":114,
    "name":"Amar Juice Center",
@@ -155,7 +160,7 @@
    "cost":"350",
    "menu":["Pav bhaji","Masala Pav bhaji","Masala Pav","Tava pulao"]
  }
-}, {
+}, { "type":"resturant",
   "data":{
    "id":115,
    "name":"pet pooja",
