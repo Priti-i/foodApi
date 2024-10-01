@@ -3,9 +3,9 @@
     "type":"resturant",
     "data":{
         "imagee": "https://b.zmtcdn.com/data/pictures/1/19855441/344b23781bfb41764c64ca3e33bca536_o2_featured_v2.jpg?output-format=webp",
-        "type":"F",
+       
         "id":"101",
-        "name":"kfc",
+        "name":"Kaka ka Dhaba",
         "city":"22",
         "area":"Anand Vihar Colony",
         "cuesine":["Ameican","Snacks","Birvani"],
@@ -16,7 +16,7 @@
     "type":"resturant",
     "data":{
         "imagee": "https://b.zmtcdn.com/data/pictures/1/19855441/344b23781bfb41764c64ca3e33bca536_o2_featured_v2.jpg?output-format=webp",
-        "type":"F",
+        
         "id":"102",
         "name":"kfc",
         "city":"22",
@@ -29,9 +29,9 @@
     "type":"resturant",
     "data":{
         "imagee": "https://b.zmtcdn.com/data/pictures/1/19855441/344b23781bfb41764c64ca3e33bca536_o2_featured_v2.jpg?output-format=webp",
-        "type":"F",
+        
         "id":"103",
-        "name":"kfc",
+        "name":"Domino's Pizza",
         "city":"22",
         "area":"Anand Vihar Colony",
         "cuesine":["Ameican","Snacks","Birvani"],
@@ -42,9 +42,9 @@
     "type":"resturant",
     "data":{
         "imagee": "https://b.zmtcdn.com/data/pictures/1/19855441/344b23781bfb41764c64ca3e33bca536_o2_featured_v2.jpg?output-format=webp",
-        "type":"F",
+        
         "id":"104",
-        "name":"kfc",
+        "name":"Baker's Den",
         "city":"22",
         "area":"Anand Vihar Colony",
         "cuesine":["Ameican","Snacks","Birvani"],
@@ -55,9 +55,9 @@
     "type":"resturant",
     "data":{
         "imagee": "https://b.zmtcdn.com/data/pictures/1/19855441/344b23781bfb41764c64ca3e33bca536_o2_featured_v2.jpg?output-format=webp",
-        "type":"F",
+        
         "id":"105",
-        "name":"kfc",
+        "name":"Theobroma",
         "city":"22",
         "area":"Anand Vihar Colony",
         "cuesine":["Ameican","Snacks","Birvani"],
@@ -68,9 +68,9 @@
     "type":"resturant",
     "data":{
         "imagee": "https://b.zmtcdn.com/data/pictures/1/19855441/344b23781bfb41764c64ca3e33bca536_o2_featured_v2.jpg?output-format=webp",
-        "type":"F",
+        
         "id":"106",
-        "name":"kfc",
+        "name":"Dairy Don",
         "city":"22",
         "area":"Anand Vihar Colony",
         "cuesine":["Ameican","Snacks","Birvani"],
