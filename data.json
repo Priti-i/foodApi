@@ -76,6 +76,33 @@
         "cuesine":["Ameican","Snacks","Birvani"],
         "rating":"2"
     }
+  },
+  
+  {
+    "type":"resturant",
+    "data":{
+        "imagee": "https://b.zmtcdn.com/data/pictures/1/19855441/344b23781bfb41764c64ca3e33bca536_o2_featured_v2.jpg?output-format=webp",
+        
+        "id":"107",
+        "name":"Dairy Don",
+        "city":"22",
+        "area":"Anand Vihar Colony",
+        "cuesine":["Ameican","Snacks","Birvani"],
+        "rating":"2"
+    }
+  }
+  ,
+  {
+    "type":"resturant",
+    "data":{
+        "imagee": "https://b.zmtcdn.com/data/pictures/1/19855441/344b23781bfb41764c64ca3e33bca536_o2_featured_v2.jpg?output-format=webp",
+        "id":"108",
+        "name":"Dairy Don",
+        "city":"22",
+        "area":"Anand Vihar Colony",
+        "cuesine":["Ameican","Snacks","Birvani"],
+        "rating":"2"
+    }
   } 
   
 ]
