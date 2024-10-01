@@ -14,7 +14,7 @@ node_modules/
 .parcel-cache/
 dist/
 build/
-
+data1.json
 .cache/
 
 # dotenv environment variables file

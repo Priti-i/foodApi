@@ -17,27 +17,167 @@
     {
       "type":"resturant",
       "data":{
-          "imagee": "https://b.zmtcdn.com/data/pictures/1/19855441/344b23781bfb41764c64ca3e33bca536_o2_featured_v2.jpg?output-format=webp",
-          "type":"F",
-          "id":"73012",
-          "name":"KFC1",
-          "city":"22",
-          "area":"Anand Vihar Colony",
-          "cuesine":["Ameican","Snacks","Birvani"],
-          "rating":"2"
+        "imagee": "https://b.zmtcdn.com/data/pictures/1/19855441/344b23781bfb41764c64ca3e33bca536_o2_featured_v2.jpg?output-format=webp",
+        "id":102,
+   "name":"KFC",
+   "rating":"4.2",
+   "cusion":["Burgers","Fast Food"],
+   "areaName":"Pathardi Phata",
+   "costforTwo":"400",
+   "menu":[ "Zinger Pro Burger","Chiken Popcorn","Peri-Peri chiken Strip","All Chiken Box"]
       }
     },
     {
       "type":"resturant",
       "data":{
           "imagee": "https://b.zmtcdn.com/data/pictures/1/19855441/344b23781bfb41764c64ca3e33bca536_o2_featured_v2.jpg?output-format=webp",
-          "type":"F",
-          "id":"73013",
-          "name":"KFC2",
-          "city":"22",
-          "area":"Anand Vihar Colony",
-          "cuesine":["Ameican","Snacks","Birvani"],
-          "rating":"2 "
+          "id":103,
+          "name":"Domino's Pizza",
+          "rating":"4.1",
+          "cusion":["Pizzas","Italian"],
+          "areaName":"satpur",
+          "costforTwo":"",
+          "menu":["Non Veg Loaded","Margherita Pizza","Veg Loaded","Burger Pizza","Peppy Panner Pizza"]
       }
-    }
+    },
+    { "type":"resturant",
+  "data":{
+   "id":104,
+   "name":"Baker's Den",
+   "imagee": "https://b.zmtcdn.com/data/pictures/1/19855441/344b23781bfb41764c64ca3e33bca536_o2_featured_v2.jpg?output-format=webp",
+   "rating":"4.4",
+   "cusion":["Cakes and Pastries","Desserts"],
+   "areaName":"College Road",
+   "costforTwo":"450",
+   "menu":["Rasmalai Cake","Belgium chocolate Cake","Durch Truffle Cake","Black Forest Cake","Pineapple Cake" ]
+ }
+},
+ { "type":"resturant",
+  "data":{
+   "id":105,
+   "name":"Theobroma",
+"imagee": "https://b.zmtcdn.com/data/pictures/1/19855441/344b23781bfb41764c64ca3e33bca536_o2_featured_v2.jpg?output-format=webp",
+   "rating":"4.6",
+   "cusion":["Bakery","Desserts"],
+   "areaName":"Parijat Nagar",
+   "costforTwo":"400",
+   "menu":["Overload Brownie Piece","Pineapple","Rice Chocolate Pastry","Pain Au Chocolate","Butter Palmiers"]
+ }
+},
+{ "type":"resturant",
+"data":{
+ "id":106,
+ "name":"Dairy Don",
+"imagee": "https://b.zmtcdn.com/data/pictures/1/19855441/344b23781bfb41764c64ca3e33bca536_o2_featured_v2.jpg?output-format=webp",
+ "rating":"4.5",
+ "cusion":["Beverages","Desert","Ice-cream"],
+ "areaName":"College Road",
+ "costforTwo":"360",
+ "menu":["Chocolate kitkat Thick","Sitafal Thick Shake","Chocolate Thick Shake","Mango Mastani","Badam Shake"]
+}
+}
+, { "type":"resturant",
+  "data":{
+   "id":107,
+   "name":"Chhotu Kolhapuri",
+"imagee": "https://b.zmtcdn.com/data/pictures/1/19855441/344b23781bfb41764c64ca3e33bca536_o2_featured_v2.jpg?output-format=webp",
+   "rating":"4.3",
+   "cusion":["Maharastrian Snacks"],
+   "areaName":"Amabad",
+   "costforTwo":"100",
+   "menu":["Chees con Padapav","Mayonnaise Vadaapv" ,"Motu"]
+ }
+},
+{ "type":"resturant",
+  "data":{
+   "id":108,
+   "name":"Veg Aroma",
+  "imagee": "https://b.zmtcdn.com/data/pictures/1/19855441/344b23781bfb41764c64ca3e33bca536_o2_featured_v2.jpg?output-format=webp",
+   "rating":"4.6",
+   "cusion":["North Indian","South Indian","Maharastian"],
+   "areaName":"Indra Nagar",
+   "costforTwo":"350",
+   "menu":["Dal Khichadi","Rumali Khakra","Dal Khichadi Tadka","Veg Biryani Half","Shev Bhaji" ]
+ }
+},
+{ "type":"resturant",
+  "data":{
+   "id":109,
+   "name":"Malabar Kitchen",
+   "imagee": "https://b.zmtcdn.com/data/pictures/1/19855441/344b23781bfb41764c64ca3e33bca536_o2_featured_v2.jpg?output-format=webp",
+   "rating":"4.3",
+   "cusion":["South Indian","Biryanani"],
+   "areaName":"Amabd",
+   "costforTwo":"300",
+   "menu":["Chiken Curry","Chiken Biryani","Egg Biryani","Dosa Set","Dosa"]
+ }
+},
+{ "type":"resturant",
+"data":{
+ "id":110,
+ "name":"Haste kitchen",
+ "imagee": "https://b.zmtcdn.com/data/pictures/1/19855441/344b23781bfb41764c64ca3e33bca536_o2_featured_v2.jpg?output-format=webp",
+ "rating":"3.5",
+ "cusion":["Indian","Kebabs","seafood"],
+ "areaName":"College Road",
+ "costforTwo":"200",
+ "menu":["Paneer dum birani","Butter chiken","Butter chiken rice bowl","Smook Chiken biryani","Paneer Paratha"]
+}
+}, { "type":"resturant",
+"data":{
+ "id":111,
+ "name":"Anna ka Idli Dosa",
+"imagee": "https://b.zmtcdn.com/data/pictures/1/19855441/344b23781bfb41764c64ca3e33bca536_o2_featured_v2.jpg?output-format=webp",
+ "rating":"4.8",
+ "cusion":["Fast Food","Burger"],
+ "areaName":"College Road",
+ "costforTwo":"200",
+ "menu":[ "Masal dosa","Medu vada sambar","Paper sada dosa","Onion uttapam"]
+}
+}, { "type":"resturant",
+"data":{
+ "id":112,
+ "name":"Rock N Roll",
+"imagee": "https://b.zmtcdn.com/data/pictures/1/19855441/344b23781bfb41764c64ca3e33bca536_o2_featured_v2.jpg?output-format=webp",
+ "rating":"3.7",
+ "cusion":["roll","burger"],
+ "areaName":"Rane Nagar",
+ "costforTwo":"300",
+ "menu":["Paneer roll","Chiken Roll","Paneer chess Roll","Noodles Roll","Veg Burger"]
+}
+}, { "type":"resturant",
+"data":{
+ "id":113,
+ "name":"Hotel Aditya",
+"imagee": "https://b.zmtcdn.com/data/pictures/1/19855441/344b23781bfb41764c64ca3e33bca536_o2_featured_v2.jpg?output-format=webp",
+ "rating":"4.3",
+ "cusion":["North Indian","Biryani","Fast Food"],
+ "areaName":"Lekha Nagar",
+ "costforTwo":"350",
+ "menu":["Chiken Handi","Mutton Handi","Mutton Biryani","Sev Bhaji"]
+}
+}, { "type":"resturant",
+"data":{
+ "id":114,
+ "name":"Amar Juice Center",
+"imagee": "https://b.zmtcdn.com/data/pictures/1/19855441/344b23781bfb41764c64ca3e33bca536_o2_featured_v2.jpg?output-format=webp",
+ "rating":"4.4",
+ "cusion":["North Indian","South Indian"],
+ "areaName":"Untwadi",
+ "cost":"350",
+ "menu":["Pav bhaji","Masala Pav bhaji","Masala Pav","Tava pulao"]
+}
+}, { "type":"resturant",
+"data":{
+ "id":115,
+ "name":"pet pooja",
+"imagee": "https://b.zmtcdn.com/data/pictures/1/19855441/344b23781bfb41764c64ca3e33bca536_o2_featured_v2.jpg?output-format=webp",
+ "rating":"4.3",
+ "cusion":["Fast food","Burger"],
+ "areaName":"Amabad",
+ "cost":"200",
+ "menu":["Veg tava pulao","Dal Khichdi","alooo paratha","Schezwan fried rice","veg kolhapuri","Veg crispy"]
+}
+}
+
  ]
