@@ -4,7 +4,7 @@
     "data":{
         "imagee": "https://b.zmtcdn.com/data/pictures/1/19855441/344b23781bfb41764c64ca3e33bca536_o2_featured_v2.jpg?output-format=webp",
         "type":"F",
-        "id":"73011",
+        "id":"101",
         "name":"kfc",
         "city":"22",
         "area":"Anand Vihar Colony",
@@ -17,7 +17,7 @@
     "data":{
         "imagee": "https://b.zmtcdn.com/data/pictures/1/19855441/344b23781bfb41764c64ca3e33bca536_o2_featured_v2.jpg?output-format=webp",
         "type":"F",
-        "id":"73011",
+        "id":"102",
         "name":"kfc",
         "city":"22",
         "area":"Anand Vihar Colony",
@@ -30,7 +30,7 @@
     "data":{
         "imagee": "https://b.zmtcdn.com/data/pictures/1/19855441/344b23781bfb41764c64ca3e33bca536_o2_featured_v2.jpg?output-format=webp",
         "type":"F",
-        "id":"73011",
+        "id":"103",
         "name":"kfc",
         "city":"22",
         "area":"Anand Vihar Colony",
@@ -43,7 +43,7 @@
     "data":{
         "imagee": "https://b.zmtcdn.com/data/pictures/1/19855441/344b23781bfb41764c64ca3e33bca536_o2_featured_v2.jpg?output-format=webp",
         "type":"F",
-        "id":"73011",
+        "id":"104",
         "name":"kfc",
         "city":"22",
         "area":"Anand Vihar Colony",
@@ -56,7 +56,20 @@
     "data":{
         "imagee": "https://b.zmtcdn.com/data/pictures/1/19855441/344b23781bfb41764c64ca3e33bca536_o2_featured_v2.jpg?output-format=webp",
         "type":"F",
-        "id":"73011",
+        "id":"105",
+        "name":"kfc",
+        "city":"22",
+        "area":"Anand Vihar Colony",
+        "cuesine":["Ameican","Snacks","Birvani"],
+        "rating":"2"
+    }
+  } ,
+  {
+    "type":"resturant",
+    "data":{
+        "imagee": "https://b.zmtcdn.com/data/pictures/1/19855441/344b23781bfb41764c64ca3e33bca536_o2_featured_v2.jpg?output-format=webp",
+        "type":"F",
+        "id":"106",
         "name":"kfc",
         "city":"22",
         "area":"Anand Vihar Colony",
