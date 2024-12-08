@@ -2,7 +2,7 @@
   {
     "type":"resturant",
     "data":{
-        "imagee": "foodimg.jpg",
+        "imagee": "/foodimg.jpg",
        
         "id":"101",
         "name":"Kaka ka Dhaba",
