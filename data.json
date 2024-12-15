@@ -2,7 +2,7 @@
   {
     "type":"resturant",
     "data":{
-        "imagee": "/images/kfc.jpg",
+        "imagee": "/public/images/kfc.jpg",
         "id":"101",
         "name":"Kaka ka Dhaba",
         "city":"22",
