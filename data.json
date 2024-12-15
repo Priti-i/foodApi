@@ -2,8 +2,7 @@
   {
     "type":"resturant",
     "data":{
-        "imagee": "/foodimg.jpg",
-       
+        "imagee": "https://b.zmtcdn.com/data/pictures/chains/3/1600243/11bd8e351ec633ac8ed9153a81f77b51_o2_featured_v2.jpg",
         "id":"101",
         "name":"Kaka ka Dhaba",
         "city":"22",
@@ -16,7 +15,6 @@
     "type":"resturant",
     "data":{
         "imagee": "https://b.zmtcdn.com/data/pictures/1/19855441/344b23781bfb41764c64ca3e33bca536_o2_featured_v2.jpg?output-format=webp",
-        
         "id":"102",
         "name":"kfc",
         "city":"22",
