@@ -2,7 +2,7 @@
   {
     "type":"resturant",
     "data":{
-        "imagee": "/public/images/kfc.jpg",
+        "imagee": "https://www.foodiesfeed.com/wp-content/uploads/2023/04/strawberry-milk-splash.jpg",
         "id":"101",
         "name":"Kaka ka Dhaba",
         "city":"22",
