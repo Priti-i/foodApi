@@ -2,7 +2,7 @@
   {
     "type":"resturant",
     "data":{
-        "imagee": "https://b.zmtcdn.com/data/pictures/1/19855441/344b23781bfb41764c64ca3e33bca536_o2_featured_v2.jpg?output-format=webp",
+        "imagee": "/images/kfc.jpg",
         "id":"101",
         "name":"Kaka ka Dhaba",
         "city":"22",
